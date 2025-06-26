@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/QtWidgetsApplication2">
+    <file>Image/Icon_max.png</file>
+    <file>Image/icon-close.png</file>
+    <file>Image/icon-minus.png</file>
+    <file>Image/NoVideo.svg</file>
+    <file>Image/Connecting.svg</file>
+    <file>Image/back1.png</file>
+  </qresource>
+</RCC>
